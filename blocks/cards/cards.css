@@ -13,11 +13,12 @@
 }
 
 .cards .cards-card-body {
-  margin: auto;
+  margin: 0;
 }
 
 .cards .cards-card-image {
   line-height: 10;
+  margin: auto;
 }
 
 .cards .cards-card-body > *:first-child {
