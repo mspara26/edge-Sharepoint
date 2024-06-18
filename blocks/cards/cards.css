@@ -5,6 +5,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
+  div {
+  box-shadow: 10px 10px 5px lightblue;
+}
 }
 
 .cards > ul > li {
