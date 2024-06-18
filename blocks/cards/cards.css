@@ -18,7 +18,6 @@
 
 .cards .cards-card-image {
   line-height: 10;
-  border-radius: 50%;
 }
 
 .cards .cards-card-body > *:first-child {
@@ -29,5 +28,6 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  border-radius: 50%;
   box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.4);
 }
