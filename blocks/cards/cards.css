@@ -18,11 +18,11 @@
 
 .cards .cards-card-image {
   line-height: 10;
-  margin: auto;
 }
 
 .cards .cards-card-body > *:first-child {
   margin-top: 0;
+  margin: auto;
 }
 
 .cards > ul > li img {
