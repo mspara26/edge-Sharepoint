@@ -22,11 +22,11 @@
 
 .cards .cards-card-body > *:first-child {
   margin-top: 0;
-  box-shadow: 10px 10px 5px lightblue;
 }
 
 .cards > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  box-shadow: 10px 10px 5px lightblue;
 }
