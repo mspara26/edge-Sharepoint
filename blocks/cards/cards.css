@@ -10,11 +10,11 @@
 .cards > ul > li {
   border: 1px solid var(--dark-color);
   background-color: var(--background-color)
-  box-shadow: 10px 10px 5px lightblue;
 }
 
 .cards .cards-card-body {
   margin: 16px;
+  box-shadow: 10px 10px 5px lightblue;
 }
 
 .cards .cards-card-image {
