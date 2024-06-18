@@ -5,6 +5,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
+  grid-template-areas:
+    ". a a ."
+    ". a a .";
 }
 
 .cards > ul > li {
