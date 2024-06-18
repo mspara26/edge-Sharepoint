@@ -1,6 +1,6 @@
 .cards > ul {
   list-style: none;
-  margin: auto;
+  margin: 0;
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
@@ -13,7 +13,7 @@
 }
 
 .cards .cards-card-body {
-  margin: 10px;
+  margin: auto;
 }
 
 .cards .cards-card-image {
